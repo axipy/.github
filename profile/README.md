@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/axipy-logo-dark.png">
-    <img src="../assets/axipy-logo.png" alt="AXIPY" width="480">
-  </picture>
+  <img src="../assets/axipy-banner.png" alt="Logo AXIPY" width="560">
 </p>
 
 <h1 align="center">AXIPY</h1>
@@ -22,6 +19,13 @@
 ## O projeto
 
 AXIPY reúne um protocolo de publicação verificável e uma implementação de nó social. O autor assina suas publicações; cada nó verifica os objetos recebidos e escolhe em quais autoridades, peers e conteúdos confia.
+
+## O nome
+
+**AXIPY** *(A-xí-pi)*
+
+- **A Fusão:** *Axios* (Grego: Válido, autêntico) + *Ypy* (Tupi: Origem, raiz, princípio).
+- **O Conceito:** "A raiz autêntica".
 
 ## Explore os repositórios
 
