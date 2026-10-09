@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="../assets/axipy-logo.png" alt="AXIPY" width="480">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/axipy-logo-dark.png">
+    <img src="../assets/axipy-logo.png" alt="AXIPY" width="480">
+  </picture>
 </p>
 
 <h1 align="center">AXIPY</h1>
